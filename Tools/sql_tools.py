@@ -15,7 +15,7 @@ llm = ChatGroq(
 )
 
 
-engine = create_engine("postgresql+psycopg2://pawani:pawani09@20.244.12.11:5432/indian_ocean")
+engine = create_engine()
 
 DATABASE_SCHEMA = """Database Schema (Full)
 
