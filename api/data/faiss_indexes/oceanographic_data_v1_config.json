@@ -1,0 +1,8 @@
+{
+  "index_type": "IVF",
+  "dimension": 1024,
+  "normalized": true,
+  "n_embeddings": 1295,
+  "n_clusters": 32,
+  "creation_time": 1759765868.0596282
+}
